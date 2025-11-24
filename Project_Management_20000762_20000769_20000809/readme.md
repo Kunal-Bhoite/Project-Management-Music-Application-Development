@@ -14,6 +14,8 @@ This repository contains the comprehensive Project Management Plan for developin
 
 ## 🎯 Project Goals
 
+
+
 The music application aims to:
 - Revolutionize music consumption through innovative technology
 - Provide personalized music discovery using advanced algorithms
